@@ -1,0 +1,10 @@
+html{
+	font-family: Arial;
+}
+.message{
+	font-size: 22px;
+	font-weight: bold;
+}
+.time{
+	font-style: italic;
+}
